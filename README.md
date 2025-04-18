@@ -19,4 +19,4 @@ This repository is a part of my MLOps practice exercises. The objective of this 
 ### EDA Report
 
 - The full **Exploratory Data Analysis Report** can be viewed here:  
-  <a href="https://mlops-practical-problems.github.io/Problem-statement-5/reports/" target="_blank">👉 View EDA Titanic Report</a>
+  <a href="https://mlops-practical-problems.github.io/Problem-statement-5/reports/eda_titanic_report.html" target="_blank">👉 View EDA Titanic Report</a>
