@@ -14,3 +14,9 @@ This repository is a part of my MLOps practice exercises. The objective of this 
 - Titanic Dataset (from Kaggle).
 - It includes information about passengers such as:
   - Age, Sex, Fare, Class, Embarkation port, Survival status, etc.
+
+
+### EDA Report
+
+- The full **Exploratory Data Analysis Report** can be viewed here:  
+  👉 [EDA Titanic Report (HTML)](reports/eda_titanic_report.html)
